@@ -1,3 +1,3 @@
 # matlab_poisson
 
-just run main.m file
+just run pdetool_poisson.m and then main.m file
